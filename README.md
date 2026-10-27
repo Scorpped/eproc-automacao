@@ -1,4 +1,4 @@
-# Eproc Automação
+# Automação
 
 ### Automação assistida de rotinas e organização de processamento
 
